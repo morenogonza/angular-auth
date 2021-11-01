@@ -1,5 +1,10 @@
 # AuthApp
 
+Aplicacion creada con backend en node y frontend en Angular desplegada en Heroku https://angular-node-auth-gm.herokuapp.com/auth/login
+
+## Usos:
+guards, services, http, lazy load, environmnents, interfaces, pages, reactive form
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
 ## Development server
